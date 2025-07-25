@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from '../components/shared/Navbar'
-import Herosection from './Herosection'
+import Herosection from './Herosection.jsx'
 import CategoryCarousel from './CategoryCarousel'
 import LatestJobs from './LatestJobs'
 import Footer from './shared/Footer'
